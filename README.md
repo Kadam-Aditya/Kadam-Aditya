@@ -1,9 +1,12 @@
 <img src="Github BG.gif">
 
-##                  Hi there 👋, I am Aditya Kadam
+## <t>Hi there 👋, I am Aditya Kadam
 
 
-I’m currently working on Secure FIle Sharing Application
+
+- 🔭 I’m currently working on Secure File Sharing Application
+- 🌱 I’m currently learning MERN Stack
+- 📫 How to reach me: work.adityakadam@gmail.com
 
 
 <!--
