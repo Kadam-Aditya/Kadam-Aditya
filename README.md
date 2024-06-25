@@ -2,7 +2,6 @@
 
 ## Hi there 👋, I am Aditya Kadam
 
-<img src="Github BG.gif">
 
 <!--
 **Kadam-Aditya/Kadam-Aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
