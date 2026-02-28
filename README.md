@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on Secure File Sharing Application
-- 🌱 I’m currently learning MERN Stack
+- 🌱 Full-Stack Software Developer with 2+ years of experience
 - 📫 How to reach me: work.adityakadam@gmail.com
 
 
