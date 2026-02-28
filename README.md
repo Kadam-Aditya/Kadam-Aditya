@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on Secure File Sharing Application
-- 🌱 Full-Stack Software Developer with 2+ years of experience
+- 🔭 Full-Stack Software Engineer with 2+ years of experience
+- 🌱 Enthusiastic about learning German
 - 📫 How to reach me: work.adityakadam@gmail.com
 
 
